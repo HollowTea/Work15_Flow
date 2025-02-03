@@ -1,1 +1,1 @@
-Work with Kotlin Flow, Lotto Game
+Work with Kotlin Flow, Lotto Game - IntelliJ Idea
